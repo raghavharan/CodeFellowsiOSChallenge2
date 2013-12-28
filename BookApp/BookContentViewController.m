@@ -2,8 +2,8 @@
 //  BookContentViewController.m
 //  BookApp
 //
-//  Created by wancheng on 12/29/13.
-//  Copyright (c) 2013 wancheng. All rights reserved.
+//  Raghav Haran
+//  Code Fellows iOS Challenge 2
 //
 
 #import "BookContentViewController.h"
